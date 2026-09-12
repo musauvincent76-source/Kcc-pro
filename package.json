@@ -1,0 +1,11 @@
+{
+  "name": "kcc-pro",
+  "version": "5.0.0",
+  "main": "panel.js",
+  "scripts": {
+    "start": "node panel.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
